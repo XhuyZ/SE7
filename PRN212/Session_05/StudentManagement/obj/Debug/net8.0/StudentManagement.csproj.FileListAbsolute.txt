@@ -1,0 +1,14 @@
+/home/xhuyz/SE7/PRN212/Session_05/StudentManagement/bin/Debug/net8.0/StudentManagement
+/home/xhuyz/SE7/PRN212/Session_05/StudentManagement/bin/Debug/net8.0/StudentManagement.deps.json
+/home/xhuyz/SE7/PRN212/Session_05/StudentManagement/bin/Debug/net8.0/StudentManagement.runtimeconfig.json
+/home/xhuyz/SE7/PRN212/Session_05/StudentManagement/bin/Debug/net8.0/StudentManagement.dll
+/home/xhuyz/SE7/PRN212/Session_05/StudentManagement/bin/Debug/net8.0/StudentManagement.pdb
+/home/xhuyz/SE7/PRN212/Session_05/StudentManagement/obj/Debug/net8.0/StudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+/home/xhuyz/SE7/PRN212/Session_05/StudentManagement/obj/Debug/net8.0/StudentManagement.AssemblyInfoInputs.cache
+/home/xhuyz/SE7/PRN212/Session_05/StudentManagement/obj/Debug/net8.0/StudentManagement.AssemblyInfo.cs
+/home/xhuyz/SE7/PRN212/Session_05/StudentManagement/obj/Debug/net8.0/StudentManagement.csproj.CoreCompileInputs.cache
+/home/xhuyz/SE7/PRN212/Session_05/StudentManagement/obj/Debug/net8.0/StudentManagement.dll
+/home/xhuyz/SE7/PRN212/Session_05/StudentManagement/obj/Debug/net8.0/refint/StudentManagement.dll
+/home/xhuyz/SE7/PRN212/Session_05/StudentManagement/obj/Debug/net8.0/StudentManagement.pdb
+/home/xhuyz/SE7/PRN212/Session_05/StudentManagement/obj/Debug/net8.0/StudentManagement.genruntimeconfig.cache
+/home/xhuyz/SE7/PRN212/Session_05/StudentManagement/obj/Debug/net8.0/ref/StudentManagement.dll

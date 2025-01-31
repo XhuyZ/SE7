@@ -1,0 +1,14 @@
+/home/xhuyz/SE7/PRN212/Session_03/Bmi/bin/Debug/net8.0/Bmi
+/home/xhuyz/SE7/PRN212/Session_03/Bmi/bin/Debug/net8.0/Bmi.deps.json
+/home/xhuyz/SE7/PRN212/Session_03/Bmi/bin/Debug/net8.0/Bmi.runtimeconfig.json
+/home/xhuyz/SE7/PRN212/Session_03/Bmi/bin/Debug/net8.0/Bmi.dll
+/home/xhuyz/SE7/PRN212/Session_03/Bmi/bin/Debug/net8.0/Bmi.pdb
+/home/xhuyz/SE7/PRN212/Session_03/Bmi/obj/Debug/net8.0/Bmi.GeneratedMSBuildEditorConfig.editorconfig
+/home/xhuyz/SE7/PRN212/Session_03/Bmi/obj/Debug/net8.0/Bmi.AssemblyInfoInputs.cache
+/home/xhuyz/SE7/PRN212/Session_03/Bmi/obj/Debug/net8.0/Bmi.AssemblyInfo.cs
+/home/xhuyz/SE7/PRN212/Session_03/Bmi/obj/Debug/net8.0/Bmi.csproj.CoreCompileInputs.cache
+/home/xhuyz/SE7/PRN212/Session_03/Bmi/obj/Debug/net8.0/Bmi.dll
+/home/xhuyz/SE7/PRN212/Session_03/Bmi/obj/Debug/net8.0/refint/Bmi.dll
+/home/xhuyz/SE7/PRN212/Session_03/Bmi/obj/Debug/net8.0/Bmi.pdb
+/home/xhuyz/SE7/PRN212/Session_03/Bmi/obj/Debug/net8.0/Bmi.genruntimeconfig.cache
+/home/xhuyz/SE7/PRN212/Session_03/Bmi/obj/Debug/net8.0/ref/Bmi.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QzOOwSiupb1FbfaMG9c7+6yq061C4eu/FVPy/s5beMLN+aT2mn2SZYgZ32WN4Np+CjJey22BTBSb6MXhdFUJ9A==",
+  "success": true,
+  "projectFilePath": "/home/xhuyz/PRN/Session_02/MusicCollection/MusicCollection.csproj",
+  "expectedPackageFiles": [
+    "/home/xhuyz/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

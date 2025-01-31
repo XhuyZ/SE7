@@ -1,0 +1,14 @@
+/home/xhuyz/SE7/PRN212/Session_04/PassByReferenceV2/bin/Debug/net8.0/PassByReferenceV2
+/home/xhuyz/SE7/PRN212/Session_04/PassByReferenceV2/bin/Debug/net8.0/PassByReferenceV2.deps.json
+/home/xhuyz/SE7/PRN212/Session_04/PassByReferenceV2/bin/Debug/net8.0/PassByReferenceV2.runtimeconfig.json
+/home/xhuyz/SE7/PRN212/Session_04/PassByReferenceV2/bin/Debug/net8.0/PassByReferenceV2.dll
+/home/xhuyz/SE7/PRN212/Session_04/PassByReferenceV2/bin/Debug/net8.0/PassByReferenceV2.pdb
+/home/xhuyz/SE7/PRN212/Session_04/PassByReferenceV2/obj/Debug/net8.0/PassByReferenceV2.GeneratedMSBuildEditorConfig.editorconfig
+/home/xhuyz/SE7/PRN212/Session_04/PassByReferenceV2/obj/Debug/net8.0/PassByReferenceV2.AssemblyInfoInputs.cache
+/home/xhuyz/SE7/PRN212/Session_04/PassByReferenceV2/obj/Debug/net8.0/PassByReferenceV2.AssemblyInfo.cs
+/home/xhuyz/SE7/PRN212/Session_04/PassByReferenceV2/obj/Debug/net8.0/PassByReferenceV2.csproj.CoreCompileInputs.cache
+/home/xhuyz/SE7/PRN212/Session_04/PassByReferenceV2/obj/Debug/net8.0/PassByReferenceV2.dll
+/home/xhuyz/SE7/PRN212/Session_04/PassByReferenceV2/obj/Debug/net8.0/refint/PassByReferenceV2.dll
+/home/xhuyz/SE7/PRN212/Session_04/PassByReferenceV2/obj/Debug/net8.0/PassByReferenceV2.pdb
+/home/xhuyz/SE7/PRN212/Session_04/PassByReferenceV2/obj/Debug/net8.0/PassByReferenceV2.genruntimeconfig.cache
+/home/xhuyz/SE7/PRN212/Session_04/PassByReferenceV2/obj/Debug/net8.0/ref/PassByReferenceV2.dll

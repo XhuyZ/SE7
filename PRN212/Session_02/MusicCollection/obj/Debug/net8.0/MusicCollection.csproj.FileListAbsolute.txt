@@ -1,0 +1,14 @@
+/home/xhuyz/PRN/Session_02/MusicCollection/bin/Debug/net8.0/MusicCollection
+/home/xhuyz/PRN/Session_02/MusicCollection/bin/Debug/net8.0/MusicCollection.deps.json
+/home/xhuyz/PRN/Session_02/MusicCollection/bin/Debug/net8.0/MusicCollection.runtimeconfig.json
+/home/xhuyz/PRN/Session_02/MusicCollection/bin/Debug/net8.0/MusicCollection.dll
+/home/xhuyz/PRN/Session_02/MusicCollection/bin/Debug/net8.0/MusicCollection.pdb
+/home/xhuyz/PRN/Session_02/MusicCollection/obj/Debug/net8.0/MusicCollection.GeneratedMSBuildEditorConfig.editorconfig
+/home/xhuyz/PRN/Session_02/MusicCollection/obj/Debug/net8.0/MusicCollection.AssemblyInfoInputs.cache
+/home/xhuyz/PRN/Session_02/MusicCollection/obj/Debug/net8.0/MusicCollection.AssemblyInfo.cs
+/home/xhuyz/PRN/Session_02/MusicCollection/obj/Debug/net8.0/MusicCollection.csproj.CoreCompileInputs.cache
+/home/xhuyz/PRN/Session_02/MusicCollection/obj/Debug/net8.0/MusicCollection.dll
+/home/xhuyz/PRN/Session_02/MusicCollection/obj/Debug/net8.0/refint/MusicCollection.dll
+/home/xhuyz/PRN/Session_02/MusicCollection/obj/Debug/net8.0/MusicCollection.pdb
+/home/xhuyz/PRN/Session_02/MusicCollection/obj/Debug/net8.0/MusicCollection.genruntimeconfig.cache
+/home/xhuyz/PRN/Session_02/MusicCollection/obj/Debug/net8.0/ref/MusicCollection.dll

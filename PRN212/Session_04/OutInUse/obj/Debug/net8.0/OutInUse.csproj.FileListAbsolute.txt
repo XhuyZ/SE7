@@ -1,0 +1,14 @@
+/home/xhuyz/SE7/PRN212/Session_04/OutInUse/bin/Debug/net8.0/OutInUse
+/home/xhuyz/SE7/PRN212/Session_04/OutInUse/bin/Debug/net8.0/OutInUse.deps.json
+/home/xhuyz/SE7/PRN212/Session_04/OutInUse/bin/Debug/net8.0/OutInUse.runtimeconfig.json
+/home/xhuyz/SE7/PRN212/Session_04/OutInUse/bin/Debug/net8.0/OutInUse.dll
+/home/xhuyz/SE7/PRN212/Session_04/OutInUse/bin/Debug/net8.0/OutInUse.pdb
+/home/xhuyz/SE7/PRN212/Session_04/OutInUse/obj/Debug/net8.0/OutInUse.GeneratedMSBuildEditorConfig.editorconfig
+/home/xhuyz/SE7/PRN212/Session_04/OutInUse/obj/Debug/net8.0/OutInUse.AssemblyInfoInputs.cache
+/home/xhuyz/SE7/PRN212/Session_04/OutInUse/obj/Debug/net8.0/OutInUse.AssemblyInfo.cs
+/home/xhuyz/SE7/PRN212/Session_04/OutInUse/obj/Debug/net8.0/OutInUse.csproj.CoreCompileInputs.cache
+/home/xhuyz/SE7/PRN212/Session_04/OutInUse/obj/Debug/net8.0/OutInUse.dll
+/home/xhuyz/SE7/PRN212/Session_04/OutInUse/obj/Debug/net8.0/refint/OutInUse.dll
+/home/xhuyz/SE7/PRN212/Session_04/OutInUse/obj/Debug/net8.0/OutInUse.pdb
+/home/xhuyz/SE7/PRN212/Session_04/OutInUse/obj/Debug/net8.0/OutInUse.genruntimeconfig.cache
+/home/xhuyz/SE7/PRN212/Session_04/OutInUse/obj/Debug/net8.0/ref/OutInUse.dll
